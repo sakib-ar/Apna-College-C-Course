@@ -15,17 +15,9 @@ The repo is divided by chapters, just like the YouTube course. Each folder conta
     🚀 Projects — Real-world mini projects to apply what you’ve learned
 
 # Chapter Links:
-[Chapter 1]()<br>
-[Chapter 2]()<br>
-[Chapter 3]()<br>
-[Chapter 4]()<br>
-[Chapter 5]()<br>
-[Chapter 6]()<br>
-[Chapter 7]()<br>
-[Chapter 8]()<br>
-[Chapter 9]()<br>
-[Chapter 10]()<br>
-[Chapter 11]()<br>
+[Chapter 1]() , [Chapter 2]() , [Chapter 3]() , [Chapter 4]()<br>
+[Chapter 5]() , [Chapter 6]() , [Chapter 7]() , [Chapter 8]()<br>
+[Chapter 9]() , [Chapter 10]() , [Chapter 11]()
 
 # Who This Is For
 - Students learning C for the first time
@@ -38,7 +30,8 @@ The repo is divided by chapters, just like the YouTube course. Each folder conta
 - git clone https://github.com/sakib-ar/Apna-College-C-Course.git
 - Navigate to the desired chapter.
 - Read the files, try out the examples, and complete the homework/projects.
-<br><br>Tip: Use any C compiler like GCC or an IDE like Code::Blocks or VSCode.
+<br><br>
+Tip: Use any C compiler like GCC or an IDE like Code::Blocks or VSCode.
 
 # 🤝 Contribute
 Want to add new puzzles, fix a bug, or suggest improvements? Contributions are welcome!<br>
