@@ -33,10 +33,10 @@ CS majors brushing up for exams<br>
 Anyone who loves puzzles and problem-solving 💡<br>
 
 # 📌 How To Use
-1.	Clone this repo:<br>
-    git clone https://github.com/sakib-ar/Apna-College-C-Course.git
-2.	Navigate to the desired chapter.
-3.	Read the files, try out the examples, and complete the homework/projects.
+- Clone this repo:<br>
+- git clone https://github.com/sakib-ar/Apna-College-C-Course.git
+- Navigate to the desired chapter.
+- Read the files, try out the examples, and complete the homework/projects.
 <br><br>Tip: Use any C compiler like GCC or an IDE like Code::Blocks or VSCode.<br>
 
 # 🤝 Contribute
