@@ -27,10 +27,10 @@ The repo is divided by chapters, just like the YouTube course. Each folder conta
 [Chapter 11]()<br>
 
 # Who This Is For
-Students learning C for the first time<br>
-Hobbyists and coding beginners<br>
-CS majors brushing up for exams<br>
-Anyone who loves puzzles and problem-solving 💡<br>
+- Students learning C for the first time
+- Hobbyists and coding beginners
+- CS majors brushing up for exams
+- Anyone who loves puzzles and problem-solving 💡
 
 # 📌 How To Use
 - Clone this repo:<br>
