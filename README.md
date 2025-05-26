@@ -5,7 +5,7 @@ This repository is a companion to my free and complete C Programming course on Y
 # 🔗 Course Link
 Watch [Complete 10-Hour C Language Tutorial (with Notes & Practice Questions)](https://youtu.be/irqbmMNs2Bo?si=PvkHyuxhYqFLLe9e)
 
-# Repository Structure
+# 🗂️ Repository Structure
 The repo is divided by chapters, just like the YouTube course. Each folder contains:<br>
     ✅ Example Codes — Demo programs from the lessons<br>
     🧩 Practice Problems — Questions to test yourself<br>
@@ -30,8 +30,7 @@ The repo is divided by chapters, just like the YouTube course. Each folder conta
 - git clone https://github.com/sakib-ar/Apna-College-C-Course.git
 - Navigate to the desired chapter.
 - Read the files, try out the examples, and complete the homework/projects.
-<br><br>
-Tip: Use any C compiler like GCC or an IDE like Code::Blocks or VSCode.
+<br><br>Tip: Use any C compiler like GCC or an IDE like Code::Blocks or VSCode.
 
 # 🤝 Contribute
 Want to add new puzzles, fix a bug, or suggest improvements? Contributions are welcome!<br>
