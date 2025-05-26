@@ -7,12 +7,12 @@ Watch [Complete 10-Hour C Language Tutorial (with Notes & Practice Questions)](h
 
 # Repository Structure
 The repo is divided by chapters, just like the YouTube course. Each folder contains:<br>
-    ✅ Example Codes — Demo programs from the lessons
-    🧩 Practice Problems — Questions to test yourself
-    🧠 Puzzles — Fun and tricky C challenges
-    📝 Homeworks — Tasks to help reinforce concepts
-    🧪 Assignments — More structured tasks for skill-building
-    🚀 Projects — Real-world mini projects to apply what you’ve learned
+    ✅ Example Codes — Demo programs from the lessons<br>
+    🧩 Practice Problems — Questions to test yourself<br>
+    🧠 Puzzles — Fun and tricky C challenges<br>
+    📝 Homeworks — Tasks to help reinforce concepts<br>
+    🧪 Assignments — More structured tasks for skill-building<br>
+    🚀 Projects — Real-world mini projects to apply what you’ve learned<br>
 
 # Chapter Links:
 [Chapter 1]() , [Chapter 2]() , [Chapter 3]() , [Chapter 4]()<br>
