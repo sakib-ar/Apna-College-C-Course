@@ -8,7 +8,7 @@ int main() {
     printf("Enter the radius: "); // Prompting the user to enter the radius
     scanf("%f", &radius); // Reading the radius value
 
-    float area = radius * radius; // Calculating the area of the square
+    float area = 3.1416 * radius * radius; // Calculating the area of the square
 
     printf("The area of the circle is: %f\n", area); // Displaying the area of the square
 
