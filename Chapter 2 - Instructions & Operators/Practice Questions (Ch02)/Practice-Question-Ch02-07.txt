@@ -1,0 +1,13 @@
+Practice Question 07: Are the following valid or not?
+
+a. int a = 8^8
+b. int x; int y = x;
+c. int x, y = x;
+d. char stars = '**';
+
+Solution:
+
+a. Invalid. No semi-colon at the end. But if we assume the semi-colon was there, then it is correct. It will act as a bitwise operator, so 8^8 is 8 XOR 8 which is 0
+b. Valid. Declared correctly.
+c. Invalid. Cannot be comma
+d. Invalid. Cannot use multiple character in char, only single character is allowed.
