@@ -3,8 +3,8 @@ Welcome to the C Language Tutorial for Beginners GitHub repo.<br>
 This repository is a companion to my free and complete C Programming course on YouTube by Apna College. Whether you're a total beginner or brushing up your skills, this repo will help you practice and deepen your understanding of the C language.
 
 # 🔗 Course Link
-Watch [Complete 10-Hour C Language Tutorial (with Notes & Practice Questions)](https://youtu.be/irqbmMNs2Bo?si=PvkHyuxhYqFLLe9e)<br>
-[Code + Notes + Practice Sheet](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD)
+Watch ---> [Complete 10-Hour C Language Tutorial (with Notes & Practice Questions)](https://youtu.be/irqbmMNs2Bo?si=PvkHyuxhYqFLLe9e)<br><br>
+Course Resources ---> [Code + Notes + Practice Sheet](https://drive.google.com/drive/folders/1SEfL7Yw3nJfVLToz9MAuAm2_NoCCk1qD)
 
 
 # 🗂️ Repository Structure
