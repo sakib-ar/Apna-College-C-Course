@@ -20,7 +20,7 @@ int main() {
 
     for(int i = 1 ; i <= n ; i++){
         if (n % i == 0){
-            PrimeDivisor++ ; // Storing total divisor number here
+            PrimeDivisor++ ; // Storing total divisors here
         }
     }
 
