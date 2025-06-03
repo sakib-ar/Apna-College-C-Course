@@ -9,17 +9,16 @@ Course Resources ---> [Code + Notes + Practice Sheet](https://drive.google.com/d
 
 # 🗂️ Repository Structure
 The repo is divided by chapters, just like the YouTube course. Each chapter contains:<br>
-    ✅ Example Codes — Demo codes from the chapters<br>
-    🧩 Practice Problems — Questions to test yourself<br>
-    📝 Homeworks — Tasks to help reinforce concepts<br>
+    ✅ Example Codes — Codes used to explain basic concepts of each chapter<br>
+    🧩 Practice Problems — Quick problems based on the chapter content<br>
+    📝 Homeworks — Challenging problems combining all key concepts, requires deep thinking<br>
 
-# In Addition:
+# ✨ In Addition
 To excel the language, there are:<br>
-    🧠 Puzzles — Fun and tricky C challenges<br>
-    🧪 Extra Questions — More structured tasks for skill-building<br>
+    🔐 Code Vault — A big collection of coding problems for all skill levels<br>
     🚀 Projects — Real-world mini projects to apply what you’ve learned<br>
 
-# 🔗 Chapter Links:
+# 📎 Chapter Links
 [Chapter 1](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%201%20-%20Variables%2C%20Data%20types%20%2B%20Input-Output) , [Chapter 2](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%202%20-%20Instructions%20%26%20Operators) , [Chapter 3](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%203%20-%20Conditional%20Statements) , [Chapter 4](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%204%20-%20Loop%20Control%20Statements)<br>
 [Chapter 5]() , [Chapter 6]() , [Chapter 7]() , [Chapter 8]()<br>
 [Chapter 9]() , [Chapter 10]() , [Chapter 11]()
