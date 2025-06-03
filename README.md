@@ -30,8 +30,8 @@ To excel the language, there are:<br>
 - Anyone who loves puzzles and problem-solving 💡
 
 # 📌 How To Use
-- Clone this repo:<br>
-- git clone https://github.com/sakib-ar/Apna-College-C-Course.git
+- To clone this repo, just copy this:
+```bash git clone https://github.com/C-Course.git
 - Navigate to the desired chapter.
 - Read the files, try out the examples, and complete the homework/projects.
 <br><br>Tip: Use any C compiler like GCC or an IDE like Code::Blocks or VSCode.
