@@ -23,20 +23,20 @@ int main() {
 double mypow(float b , int p){
     double result = 1;
 
-    if (p == 0){
+    if (p == 0){ // Something to the power is Zero is always 1
         return result ;
     }
 
     else {
         for (int i = 1 ; i <= p ; i++){
-            result *= b ;
+            result *= b ; // Multiply the base number p times
         }
 
         if (p > 0){
-            return result;
+            return result; // Return the result if power is positive
         }
         else {
-            return (1.0 / result) ;
+            return (1.0 / result) ; // If power is negative, return the inverse of the result
         }
     }
 }
