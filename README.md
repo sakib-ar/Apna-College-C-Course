@@ -1,4 +1,4 @@
-# Apna-College-C-Course
+# Apna College C Programming
 Welcome to the C Language Tutorial for Beginners GitHub repo.<br>
 This repository is a companion to my free and complete C Programming course on YouTube by Apna College. Whether you're a total beginner or brushing up your skills, this repo will help you practice and deepen your understanding of the C language.
 
