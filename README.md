@@ -20,7 +20,7 @@ To excel the language, there are:<br>
 
 # 📎 Chapter Links
 [Chapter 1](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%201%20-%20Variables%2C%20Data%20types%20%2B%20Input-Output) , [Chapter 2](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%202%20-%20Instructions%20%26%20Operators) , [Chapter 3](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%203%20-%20Conditional%20Statements) , [Chapter 4](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%204%20-%20Loop%20Control%20Statements)<br>
-[Chapter 5]() , [Chapter 6]() , [Chapter 7]() , [Chapter 8]()<br>
+[Chapter 5](https://github.com/sakib-ar/Apna-College-C-Course/tree/main/Chapter%205%20-%20Functions%20%26%20Recursion) , [Chapter 6]() , [Chapter 7]() , [Chapter 8]()<br>
 [Chapter 9]() , [Chapter 10]() , [Chapter 11]()
 
 # ❓ Who This Is For
